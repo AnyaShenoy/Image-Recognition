@@ -1,0 +1,19 @@
+body{
+    background:lightpink;
+    color:white;
+}
+
+.heading{
+    font-size: 22px;
+    width:80%;
+}
+
+.name_of_objects, #object_name, #object_accuracy{
+    color: yellow;
+}
+
+#camera{
+    border: 2px inset black;
+    width: 350px;
+    height: 300px;
+}
